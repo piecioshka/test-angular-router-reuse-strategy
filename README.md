@@ -2,6 +2,6 @@
 
 📒 Test app with RouterReuseStrategy in Angular
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-angular-router-reuse-strategy/>
